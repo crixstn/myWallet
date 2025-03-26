@@ -24,11 +24,7 @@ Built with Node.js, Express, MongoDB, and React.
 4. Set the `DATABASE_URL` variable in the `.env` file.
 5. Start the server:
    ```sh
-   node app.js
-   ```
-   or
-   ```sh
-   npx nodemon app.js
+   npm start
    ```
 6. In the frontend, install dependencies:
    ```sh
